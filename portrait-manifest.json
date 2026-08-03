@@ -38,18 +38,6 @@
       "fullBytes": 52766
     },
     {
-      "id": "UP-004",
-      "assignedTo": "U001",
-      "width": 720,
-      "height": 960,
-      "sourceSha256": "c483b5df62eb778ef5821c1141e8b1c8ff8e7253045930ba2511a12523e48237",
-      "assetSha256": "8445366504826A0F2A6E5350C2E2C0FA4E1B3023D3340185763FE7E9DF0FC887",
-      "thumbPath": "portraits/thumb/UP-004-844536650482.webp",
-      "fullPath": "portraits/full/UP-004-844536650482.webp",
-      "thumbBytes": 21944,
-      "fullBytes": 88944
-    },
-    {
       "id": "UP-005",
       "assignedTo": "U001",
       "width": 720,
@@ -2784,6 +2772,42 @@
       "fullPath": "portraits/full/BG-043-3E7FED42434C.webp",
       "thumbBytes": 25692,
       "fullBytes": 213242
+    },
+    {
+      "id": "UP-222",
+      "assignedTo": "U046",
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "73ac7534421d70778cb9d6cdd60feb89f197f2b87a9b3d0b0ae076b505e2c70c",
+      "assetSha256": "73AC7534421D70778CB9D6CDD60FEB89F197F2B87A9B3D0B0AE076B505E2C70C",
+      "thumbPath": "portraits/thumb/UP-222-73AC7534421D.webp",
+      "fullPath": "portraits/full/UP-222-73AC7534421D.webp",
+      "thumbBytes": 21964,
+      "fullBytes": 165440
+    },
+    {
+      "id": "UP-223",
+      "assignedTo": "U046",
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "ba3829b338fadc2f520704f28ea73eb9eda24aff4487183425b75085daf80daf",
+      "assetSha256": "BA3829B338FADC2F520704F28EA73EB9EDA24AFF4487183425B75085DAF80DAF",
+      "thumbPath": "portraits/thumb/UP-223-BA3829B338FA.webp",
+      "fullPath": "portraits/full/UP-223-BA3829B338FA.webp",
+      "thumbBytes": 21646,
+      "fullBytes": 149474
+    },
+    {
+      "id": "UP-224",
+      "assignedTo": "U046",
+      "width": 1086,
+      "height": 1448,
+      "sourceSha256": "dfb81ae82d023cdceafb4e59501ecf02843b083753abd9b94883d05d88437344",
+      "assetSha256": "DFB81AE82D023CDCEAFB4E59501ECF02843B083753ABD9B94883D05D88437344",
+      "thumbPath": "portraits/thumb/UP-224-DFB81AE82D02.webp",
+      "fullPath": "portraits/full/UP-224-DFB81AE82D02.webp",
+      "thumbBytes": 18684,
+      "fullBytes": 165338
     }
   ]
 }
