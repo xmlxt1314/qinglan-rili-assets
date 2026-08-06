@@ -1,0 +1,326 @@
+{
+  "version": "2.2.2",
+  "assetBaseUrl": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main",
+  "assets": [
+    {
+      "sourceIndex": 1,
+      "id": "entry-hero",
+      "path": "entry/qinglan-hero-v0.7-runtime.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-hero-v0.7-runtime.webp",
+      "bytes": 104278,
+      "sha256": "0215BE3F795F1621297B1F6BB2A97933575A772E840E31A6CCADFBA445397BC4"
+    },
+    {
+      "sourceIndex": 2,
+      "id": "entry-campus-map",
+      "path": "entry/qinglan-campus-map-v0.9-runtime.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-campus-map-v0.9-runtime.webp",
+      "bytes": 231752,
+      "sha256": "37D1D47CF2CE3A3CA3CE6068C6A9E786D9ED72D0EB78E5C264F85C33F97CE58C"
+    },
+    {
+      "sourceIndex": 3,
+      "id": "entry-school-gate",
+      "path": "entry/qinglan-school-gate-v2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-school-gate-v2.webp",
+      "bytes": 59562,
+      "sha256": "5B1215F7AB54B7823B899DD5544C649E09776CCFB1BC9FAE4FFC8BC10C64042D"
+    },
+    {
+      "sourceIndex": 4,
+      "id": "entry-campus-welcome",
+      "path": "entry/qinglan-campus-welcome-v2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-campus-welcome-v2.webp",
+      "bytes": 67156,
+      "sha256": "92802B7130A2F39765B54B002D42417961A3D66276AF196C404594F74573CA62"
+    },
+    {
+      "sourceIndex": 5,
+      "id": "entry-campus-people",
+      "path": "entry/qinglan-campus-people-v2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-campus-people-v2.webp",
+      "bytes": 58424,
+      "sha256": "FD5E0DB03163C127F4D75C6859638885FA9AC51DF844A2ECBEFFD7BCCD9A472A"
+    },
+    {
+      "sourceIndex": 6,
+      "id": "entry-campus-stories",
+      "path": "entry/qinglan-campus-stories-v2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-campus-stories-v2.webp",
+      "bytes": 51516,
+      "sha256": "4DD33CE937C5F4A5CDFED8193EECC3214A3E01A4D11B57AB30538BAF1710C9A1"
+    },
+    {
+      "sourceIndex": 7,
+      "id": "entry-campus-customize",
+      "path": "entry/qinglan-campus-customize-v2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-campus-customize-v2.webp",
+      "bytes": 53936,
+      "sha256": "F4854CDC9B4CEBE18A6F1A20C38FA1D8A1F307769FD3456FEF805A0D7A2D9C2D"
+    },
+    {
+      "sourceIndex": 8,
+      "id": "entry-campus-life",
+      "path": "entry/qinglan-campus-life-v2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-campus-life-v2.webp",
+      "bytes": 53096,
+      "sha256": "6E534CA4E52ABF7534DAA2B4C155ADB1F8CE850D951AA514EEF6DD70C4595DF5"
+    },
+    {
+      "sourceIndex": 9,
+      "id": "entry-bulletin",
+      "path": "entry/qinglan-bulletin-board-v3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/entry/qinglan-bulletin-board-v3.webp",
+      "bytes": 86256,
+      "sha256": "8B4C7868DF65BA055579BA845507660140223B71649FD7913E192D86A07D9F2B"
+    },
+    {
+      "sourceIndex": 10,
+      "id": "background-rain-radio",
+      "path": "backgrounds/rain-radio.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/backgrounds/rain-radio.webp",
+      "bytes": 4778,
+      "sha256": "89DD8032B3354D0C53127E01357802D7DC629E077D53245B5C247DB119E3DA22"
+    },
+    {
+      "sourceIndex": 11,
+      "id": "background-morning-magazine",
+      "path": "backgrounds/morning-magazine.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/backgrounds/morning-magazine.webp",
+      "bytes": 29480,
+      "sha256": "D2EC5F193525B920BEDAF36BDAA657A0A683AF7E49D86A12D578DAC2BAE1B6B6"
+    },
+    {
+      "sourceIndex": 12,
+      "id": "background-autumn-planner",
+      "path": "backgrounds/autumn-planner.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/backgrounds/autumn-planner.webp",
+      "bytes": 33446,
+      "sha256": "64A8EA201E091228D39D6D79B9E7A60AF991C57766F3689FA723B48C3F650410"
+    },
+    {
+      "sourceIndex": 13,
+      "id": "location-gate-security-office",
+      "path": "locations/gate-security-office.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/gate-security-office.webp",
+      "bytes": 15720,
+      "sha256": "80CB5020505D90BEA0D683C70D3280C406763435F28D97CE99000691D5C19F55"
+    },
+    {
+      "sourceIndex": 14,
+      "id": "location-gate-welcome-registration-tent",
+      "path": "locations/gate-welcome-registration-tent.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/gate-welcome-registration-tent.webp",
+      "bytes": 22672,
+      "sha256": "3705619EA91FE45A0C95560CC47AADCD58C2A7FB34A7C8B20CC4D4DF36680A42"
+    },
+    {
+      "sourceIndex": 15,
+      "id": "location-gate-bicycle-shed",
+      "path": "locations/gate-bicycle-shed.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/gate-bicycle-shed.webp",
+      "bytes": 28792,
+      "sha256": "57A84254FCAFD8C3C7CB55C2D254287DBED211A0DCB36DF7BF0B992FB69FA9B4"
+    },
+    {
+      "sourceIndex": 16,
+      "id": "location-grade1-classroom",
+      "path": "locations/grade1-classroom.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/grade1-classroom.webp",
+      "bytes": 16112,
+      "sha256": "8B1E1E489D658E18332F29BC6DC6CCBDF22D0E3C8B149A63E17B86514709757F"
+    },
+    {
+      "sourceIndex": 17,
+      "id": "location-grade1-office",
+      "path": "locations/grade1-office.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/grade1-office.webp",
+      "bytes": 14226,
+      "sha256": "882D2A5610AD96E32609D44BD29122409853604E7FF2A98C15676B641ECA1B46"
+    },
+    {
+      "sourceIndex": 18,
+      "id": "location-grade1-restroom",
+      "path": "locations/grade1-restroom.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/grade1-restroom.webp",
+      "bytes": 8726,
+      "sha256": "BF5EE0FD1F64E4F5D4099561E941E204FB8B0ED687778A9076DD2DBC3F0617B6"
+    },
+    {
+      "sourceIndex": 19,
+      "id": "location-senior-grade2-classroom",
+      "path": "locations/senior-grade2-classroom.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/senior-grade2-classroom.webp",
+      "bytes": 13412,
+      "sha256": "882DF63DCCABBB8CA742220CA21882903E5485F3232FAB44F860090AA03C3CAB"
+    },
+    {
+      "sourceIndex": 20,
+      "id": "location-senior-grade3-study-room",
+      "path": "locations/senior-grade3-study-room.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/senior-grade3-study-room.webp",
+      "bytes": 9510,
+      "sha256": "0372073FC1C88DA93215F11CD85F69786E12FBD58AFDFB79FFBFDA4FF7F3A0F8"
+    },
+    {
+      "sourceIndex": 21,
+      "id": "location-senior-quiet-corridor",
+      "path": "locations/senior-quiet-corridor.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/senior-quiet-corridor.webp",
+      "bytes": 13826,
+      "sha256": "6049E886EC6B7852A3EBB1043A74AA0547C75C1FBE9D8FED448E7C7DD304E86F"
+    },
+    {
+      "sourceIndex": 22,
+      "id": "location-faculty-general-office",
+      "path": "locations/faculty-general-office.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/faculty-general-office.webp",
+      "bytes": 12936,
+      "sha256": "59DA09899711F6BBD5B5ED8C34969C8929DEF9D5A00616D612BE638ECC79F214"
+    },
+    {
+      "sourceIndex": 23,
+      "id": "location-faculty-student-development-center",
+      "path": "locations/faculty-student-development-center.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/faculty-student-development-center.webp",
+      "bytes": 12210,
+      "sha256": "75E7DE2C2555176D326E4D61280D5B8A5E3026FE4EA04DC8E67AB2148BE80AF0"
+    },
+    {
+      "sourceIndex": 24,
+      "id": "location-faculty-meeting-room",
+      "path": "locations/faculty-meeting-room.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/faculty-meeting-room.webp",
+      "bytes": 9690,
+      "sha256": "185BACF97305C2B533CF34BCFB876B6AD2601E4ADB11AFB2CACB5CD3185A53F4"
+    },
+    {
+      "sourceIndex": 25,
+      "id": "location-clubs-announcement-hall",
+      "path": "locations/clubs-announcement-hall.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/clubs-announcement-hall.webp",
+      "bytes": 12414,
+      "sha256": "5DD2F0FF6C9FF32E04744CCF4CD8C421B519385E1C76E5E26A302826CCD9BBF7"
+    },
+    {
+      "sourceIndex": 26,
+      "id": "location-clubs-shared-activity-room",
+      "path": "locations/clubs-shared-activity-room.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/clubs-shared-activity-room.webp",
+      "bytes": 13096,
+      "sha256": "D76592E0A8EE84EE51288073D91C8AABDEE9D7E25F4F06631F7C525AA2CC139C"
+    },
+    {
+      "sourceIndex": 27,
+      "id": "location-clubs-storage-room",
+      "path": "locations/clubs-storage-room.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/clubs-storage-room.webp",
+      "bytes": 11594,
+      "sha256": "BD16851613C102A66B5F1602D74E399CC93B7626C246823F053954E1F244D650"
+    },
+    {
+      "sourceIndex": 28,
+      "id": "location-sports-track-field",
+      "path": "locations/sports-track-field.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/sports-track-field.webp",
+      "bytes": 15776,
+      "sha256": "1A68FE7E714AD63073AC484BF76B3170AC897BF47B48625E0506EF7292865F1F"
+    },
+    {
+      "sourceIndex": 29,
+      "id": "location-sports-basketball-gym",
+      "path": "locations/sports-basketball-gym.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/sports-basketball-gym.webp",
+      "bytes": 13640,
+      "sha256": "CF73245C21FD51775020A582E2BB2D2CD833BF77ECA426F5737D421853AF051A"
+    },
+    {
+      "sourceIndex": 30,
+      "id": "location-sports-equipment-room",
+      "path": "locations/sports-equipment-room.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/sports-equipment-room.webp",
+      "bytes": 11920,
+      "sha256": "70E30A7721FD10E5F5AC7C9F153DF8712ABB15118966453D3AEF18F025DCC30E"
+    },
+    {
+      "sourceIndex": 31,
+      "id": "location-media-library-reading-room",
+      "path": "locations/media-library-reading-room.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/media-library-reading-room.webp",
+      "bytes": 14688,
+      "sha256": "56E3AFDD2BE5E6476D69FDF9331B6877153D6E08BD4F452963EF04395840C8E2"
+    },
+    {
+      "sourceIndex": 32,
+      "id": "location-media-radio-station",
+      "path": "locations/media-radio-station.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/media-radio-station.webp",
+      "bytes": 9356,
+      "sha256": "FA5F9B9D1627DAC8B55985BC0487E03CE63BED2B3539876B8BE2B4FB78A7FBDC"
+    },
+    {
+      "sourceIndex": 33,
+      "id": "location-media-magazine-editorial-room",
+      "path": "locations/media-magazine-editorial-room.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/media-magazine-editorial-room.webp",
+      "bytes": 14568,
+      "sha256": "9E4436D7E3967473C36A813F6F05315751BF8C218A3E56FA4CD67CB487D8E080"
+    },
+    {
+      "sourceIndex": 34,
+      "id": "location-services-cafeteria",
+      "path": "locations/services-cafeteria.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/services-cafeteria.webp",
+      "bytes": 14682,
+      "sha256": "D567E2236DBB651B534F2E61C09639D8C79ED118793FA106114189D6F89BEEEA"
+    },
+    {
+      "sourceIndex": 35,
+      "id": "location-services-convenience-store",
+      "path": "locations/services-convenience-store.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/services-convenience-store.webp",
+      "bytes": 14268,
+      "sha256": "C23C3C9FA9BBDA81CF31822C5ADDB20BC86FAE459D1B275397F8CCBBEF4F8A53"
+    },
+    {
+      "sourceIndex": 36,
+      "id": "location-services-dormitory-area",
+      "path": "locations/services-dormitory-area.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/services-dormitory-area.webp",
+      "bytes": 17336,
+      "sha256": "D4D3B3624CFE427D945761DFF19F3EA5A0F097D5F6D251B3C753FD65E0EC800C"
+    },
+    {
+      "sourceIndex": 37,
+      "id": "location-labs-maker-lab",
+      "path": "locations/labs-maker-lab.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/labs-maker-lab.webp",
+      "bytes": 18810,
+      "sha256": "7804C6718ED64C44A1B4BEC86D3C5B4536E66FDE33C0583D1123956CB1422D11"
+    },
+    {
+      "sourceIndex": 38,
+      "id": "location-labs-art-classroom",
+      "path": "locations/labs-art-classroom.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/labs-art-classroom.webp",
+      "bytes": 13434,
+      "sha256": "61F07698A7874139CC62738502132162F2BB963520B5DD43F1097CA53AB9411E"
+    },
+    {
+      "sourceIndex": 39,
+      "id": "location-labs-music-rehearsal-hall",
+      "path": "locations/labs-music-rehearsal-hall.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/locations/labs-music-rehearsal-hall.webp",
+      "bytes": 14624,
+      "sha256": "F5A79909F81D65964AA38104F44BB029ADE55C72A0DBBB8BCDF23EA00C52A2C2"
+    },
+    {
+      "sourceIndex": 40,
+      "id": "ui-star-archive-panel",
+      "path": "ui/qinglan-star-archive-panel-2x3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/xmlxt1314/qinglan-rili-assets@main/ui/qinglan-star-archive-panel-2x3.webp",
+      "bytes": 15278,
+      "sha256": "90B33587BA8E3557A5E572FEA3556D21F8F84649F4742BE5C9EAE0F1B466BE51"
+    }
+  ]
+}
